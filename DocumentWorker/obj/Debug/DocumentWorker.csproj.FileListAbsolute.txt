@@ -1,0 +1,8 @@
+D:\2 курс\ООП\ООП\lab5\lab5\DocumentWorker\bin\Debug\DocumentWorker.exe.config
+D:\2 курс\ООП\ООП\lab5\lab5\DocumentWorker\bin\Debug\DocumentWorker.exe
+D:\2 курс\ООП\ООП\lab5\lab5\DocumentWorker\bin\Debug\DocumentWorker.pdb
+D:\2 курс\ООП\ООП\lab5\lab5\DocumentWorker\obj\Debug\DocumentWorker.csproj.AssemblyReference.cache
+D:\2 курс\ООП\ООП\lab5\lab5\DocumentWorker\obj\Debug\DocumentWorker.csproj.SuggestedBindingRedirects.cache
+D:\2 курс\ООП\ООП\lab5\lab5\DocumentWorker\obj\Debug\DocumentWorker.csproj.CoreCompileInputs.cache
+D:\2 курс\ООП\ООП\lab5\lab5\DocumentWorker\obj\Debug\DocumentWorker.exe
+D:\2 курс\ООП\ООП\lab5\lab5\DocumentWorker\obj\Debug\DocumentWorker.pdb
