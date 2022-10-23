@@ -1,0 +1,8 @@
+D:\2 курс\ООП\ООП\lab5\lab5\ClassRoom\bin\Debug\ClassRoom.exe.config
+D:\2 курс\ООП\ООП\lab5\lab5\ClassRoom\bin\Debug\ClassRoom.exe
+D:\2 курс\ООП\ООП\lab5\lab5\ClassRoom\bin\Debug\ClassRoom.pdb
+D:\2 курс\ООП\ООП\lab5\lab5\ClassRoom\obj\Debug\ClassRoom.csproj.AssemblyReference.cache
+D:\2 курс\ООП\ООП\lab5\lab5\ClassRoom\obj\Debug\ClassRoom.csproj.SuggestedBindingRedirects.cache
+D:\2 курс\ООП\ООП\lab5\lab5\ClassRoom\obj\Debug\ClassRoom.csproj.CoreCompileInputs.cache
+D:\2 курс\ООП\ООП\lab5\lab5\ClassRoom\obj\Debug\ClassRoom.exe
+D:\2 курс\ООП\ООП\lab5\lab5\ClassRoom\obj\Debug\ClassRoom.pdb
